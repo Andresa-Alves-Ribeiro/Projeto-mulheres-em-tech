@@ -2,11 +2,6 @@
 
 Projeto desenvolvido para o evento Mulheres em Tech dos dias 06 a 11 de Junho de 2022.
 
-## Ferramentas
-
-1. [Instalação do VS Code no Windows](https://kenzie.com.br/blog/instalacao-vs-code-windows/)
-2. [Como utilizar o codepen e o VSCode](https://kenzie-academy-brasil.github.io/ferramentas/)
-
 ## Checkpoints aulas
 
 1. [Introdução ao HTML e estruturação do projeto](https://kenzieacademybr.notion.site/Checkpoint-HTML-603966060b18408b9a94e08029552dbc)
@@ -14,6 +9,11 @@ Projeto desenvolvido para o evento Mulheres em Tech dos dias 06 a 11 de Junho de
 3. [Introdução ao Javascript](https://kenzieacademybr.notion.site/Checkpoint-JS-1daf0ac2fccf43fb9da86579ec013ecf)
 
 ## O projeto
+
+### Tecnologias
+- HTML
+- CSS
+- JS
 
 ### Estrutura de arquivos
 
@@ -44,9 +44,6 @@ Projeto desenvolvido para o evento Mulheres em Tech dos dias 06 a 11 de Junho de
 
 - [Layout Mulheres em Tech => Desenvolvendo plataforma de vagas](https://www.figma.com/file/ivCfSG5ElZUqz5KLv2fmhn/Evento----Mulheres-em-Tech?node-id=39%3A135)
 
-## LinkedIn das Instrutoras
-- [Nicole Pimenta](https://www.linkedin.com/in/nicole-pimenta/)
-- [Maria Ferrari](https://www.linkedin.com/in/maria-aparecida-guedes-ferrari/)
 
 ## Referências
 
