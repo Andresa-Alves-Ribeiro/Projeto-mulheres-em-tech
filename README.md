@@ -1,12 +1,14 @@
 # Mulheres em Tech => Desenvolvendo plataforma de vagas
 
+![Captura de tela 2022-07-03 231252](https://user-images.githubusercontent.com/94997593/177069804-727a4208-b007-4ebf-aa2d-4a386132d9ff.gif)
+
+
 Projeto desenvolvido para o evento Mulheres em Tech dos dias 06 a 11 de Junho de 2022.
 
-## Checkpoints aulas
+## Projeto final
 
-1. [Introdução ao HTML e estruturação do projeto](https://kenzieacademybr.notion.site/Checkpoint-HTML-603966060b18408b9a94e08029552dbc)
-2. [Introdução ao CSS e estilização do projeto](https://kenzieacademybr.notion.site/Checkpoint-CSS-25ff90c91bbf469f992d4eb78676b22e)
-3. [Introdução ao Javascript](https://kenzieacademybr.notion.site/Checkpoint-JS-1daf0ac2fccf43fb9da86579ec013ecf)
+Você pode olhar o projeto por meio [deste link](https://projeto-mulheres-em-tech.vercel.app/)
+
 
 ## O projeto
 
