@@ -22,7 +22,7 @@
 
 
 **Mobile View** <br/>
-
+![mobile](https://user-images.githubusercontent.com/94997593/234912468-6260eda7-bb6a-4c4c-b6d0-d61becced7d2.png)
 
 
 &nbsp;
